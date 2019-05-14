@@ -10,6 +10,9 @@
 坦白讲：教书育人比上班难十倍，想给别人一碗水，首先自己要有一桶水。
 
 
+
+
+
 # BAT面试官-十道前端面试题（ 欢迎挑战 持续更新中...) #
 
 
@@ -21,10 +24,18 @@
 
 
 
+
+
+
+
 # 技术博客 #
 
 
 * [十年Java开发经验告诉你：零基础怎么学java，希望新人少走弯路](https://github.com/hichannel/blog/issues/1)
+
+
+
+
 
 
 # 交流 #  
@@ -34,3 +45,6 @@
 >blog地址：[http://www.hichannel.net/blog](http://www.hichannel.net/blog)
 
 希望在小伙伴学习前进的路上有所帮助，也欢迎有问题随时咨询 
+
+
+
